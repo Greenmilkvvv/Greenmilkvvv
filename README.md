@@ -12,10 +12,10 @@
 ***
 # Me
 - **birthday**: 2004.05.05 立夏 ｜ 生如夏花之绚烂
-- **academics**: 2022.09 - today, ECNU Statistic&Finance double-major | 金统这个专业令人不解
+- **academics**: 2022.09 - today, ECNU Statistic&Finance double-major | 这个专业令人不解
 - **city**: Suzhou/Shanghai | 总也离不开江南的烟雨
-- **mbti**: ISFP | 温柔&探索
-- **favorite cocktail**: HANKY PANKY | 这杯酒的中文名的话...翻云覆雨、阴谋诡计、暗香、乱搞、出轨......
+- **mbti**: ISFP | 永远温柔抒情
+- **favorite cocktail**: HANKY PANKY | 这杯酒的中文名的话...翻云覆雨、阴谋诡计、暗香、乱搞、出轨，这些都可以
 
 ***
 暂时想不到了
