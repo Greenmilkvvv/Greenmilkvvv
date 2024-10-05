@@ -11,11 +11,11 @@
 > —— **《恐るべき大人達（可怕的大人）》 椎名林檎/东京事变**
 ***
 # Me
-- birthday: 2004.05.05 立夏 ｜ 生如夏花之绚烂
-- academics: 2022.09 - today, ECNU Statistic&Finance double-major | 金统这个专业令人不解
-- city: Suzhou/Shanghai | 总也离不开江南的烟雨
-- mbti: ISFP | 温柔&探索
-- favorite cocktail: **Hanky Panky** | 这杯酒的中文名的话...翻云覆雨、阴谋诡计、暗香、乱搞、出轨......
+- **birthday**: 2004.05.05 立夏 ｜ 生如夏花之绚烂
+- **academics**: 2022.09 - today, ECNU Statistic&Finance double-major | 金统这个专业令人不解
+- **city**: Suzhou/Shanghai | 总也离不开江南的烟雨
+- **mbti**: ISFP | 温柔&探索
+- **favorite cocktail**: HANKY PANKY | 这杯酒的中文名的话...翻云覆雨、阴谋诡计、暗香、乱搞、出轨......
 
 ***
 暂时想不到了
