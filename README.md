@@ -15,7 +15,7 @@
 - **academics**: 2022.09 - today, ECNU Statistics&Finance double-major | 这个专业令人费解
 - **city**: Suzhou/Shanghai | 总也离不开江南的烟雨
 - **mbti**: ISFP | 永远温柔抒情
-- **favorite cocktail**: HANKY PANKY | 这杯酒的中文名的话...翻云覆雨、阴谋诡计、暗香、乱搞、出轨，这些都可以
+- **favorite cocktail**: Hanky Panky | 这杯酒的中文名的话...翻云覆雨、阴谋诡计、暗香、乱搞、出轨，这些都可以
 
 ***
 暂时想不到了
