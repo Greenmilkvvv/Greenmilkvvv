@@ -1,4 +1,4 @@
-# Thank you for visiting my profile and life.
+# Thank you for walking into my boring life.🥰😉✨✨
 > ADAM AND EVE WOULD TOSS THE APPLE AWAY,<br>
 > 如果亚当和夏娃没有拾起那个苹果，<br>
 > THE EARTH WOULD TURN THE OTHER WAY,<br>
