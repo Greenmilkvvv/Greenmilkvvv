@@ -25,7 +25,7 @@
 - Quantitative Finance & Risk Management
 
 ## ⚒️ Skills
-[![My Skills](https://skillicons.dev/icons?i=python,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,r,sql,git,latex)](https://skillicons.dev)
 
 ***
 暂时想不到了
