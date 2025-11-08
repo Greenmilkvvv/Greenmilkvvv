@@ -26,6 +26,3 @@
 
 ## ⚒️ Skills
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,r,mysql,latex,git&perline=3)](https://skillicons.dev)
-
-***
-暂时想不到了
