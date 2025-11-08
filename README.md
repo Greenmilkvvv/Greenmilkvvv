@@ -17,7 +17,7 @@
 - **favorite cocktail**: Hanky Panky | 这杯酒的中文名的话...翻云覆雨、阴谋诡计、暗香，这些都可以
 
 ## 🤗 Background
-- Having obtained offer of Applied Statistics from Tongji University
+- Having obtained offer of Master Program Applied Statistics from Tongji University
 - Currently pursuing Bachelor in Statistics and Bachelor in Finance from East China Normal University
 
 ## 🎯 Interests
@@ -25,7 +25,7 @@
 - Quantitative Finance & Risk Management
 
 ## ⚒️ Skills
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,r,sql,git,latex&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,pytorch,mysql,git,github,latex&perline=3)](https://skillicons.dev)
 
 ***
 暂时想不到了
