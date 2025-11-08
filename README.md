@@ -22,7 +22,7 @@
 
 ## 🎯 Interests
 - Data Science
-- Quantitative Finance & Risk Management
+- Quantitative Finance
 
 ## ⚒️ Skills
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,r,mysql,latex,git&perline=3)](https://skillicons.dev)
