@@ -17,8 +17,8 @@
 - **favorite cocktail**: Hanky Panky | 这杯酒的中文名的话...翻云覆雨、阴谋诡计、暗香，这些都可以
 
 ## 🤗 Background
-- Having obtained the offer of Master Program in Applied Statistics from Txxxxx University
-- Currently pursuing Bachelor in Statistics and Bachelor in Finance from Exxx Xxxxx Xxxxxx University
+- Having obtained the offer of Master Program in Applied Statistics from Xxxxxx University
+- Currently pursuing Bachelor in Statistics and Bachelor in Finance from Xxxx Xxxxx Xxxxxx University
 
 ## 🎯 Interests
 - Data Science
