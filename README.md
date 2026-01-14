@@ -27,4 +27,6 @@
 ## ⚒️ Skills
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,r,mysql,latex,git&perline=3)](https://skillicons.dev)
 
+***
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Greenmilkvvv" />
