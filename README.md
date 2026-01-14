@@ -29,4 +29,6 @@
 
 ***
 
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Greenmilk)
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Greenmilkvvv" />
