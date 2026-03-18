@@ -18,7 +18,7 @@
 
 ## 🤗 Background
 - Having obtained the offer of Master Program of **Mathematics in Artificial Intelligence and Machine Learning** from Xxxxxx University
-- Currently pursuing **Bachelors in both Statistics and Finance** from Xxxx Xxxxx Xxxxxx University
+- Currently pursuing **Bachelors in both Statistics and Finance (double-major program)** from Xxxx Xxxxx Xxxxxx University
 
 ## 🎯 Interests
 - Data Science (Stat, ML, DL)
