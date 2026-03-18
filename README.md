@@ -21,7 +21,7 @@
 - Currently pursuing **Bachelors in both Statistics and Finance** from Xxxx Xxxxx Xxxxxx University
 
 ## 🎯 Interests
-- Data Science (ML, DL, Optimization)
+- Data Science (Stat, ML, DL, Optimization)
 - Quantitative Finance
 
 ## ⚒️ Skills
