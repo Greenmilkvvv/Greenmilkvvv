@@ -17,7 +17,7 @@
 - **favorite cocktail**: Hanky Panky | 这杯酒的中文名的话...翻云覆雨、阴谋诡计、暗香，这些都可以
 
 ## 🤗 Background
-- Having obtained the offer of Master Program of **Mathematics in Artificial Intelligence and Machine Learning** from Xxxxxx University
+- Having obtained the offer of Master Program of **Applied Statistics (Deep Learning and Artificial Intelligence)** from Xxxxxx University
 - Currently pursuing **Bachelors in both Statistics and Finance (double-major program)** from Xxxx Xxxxx Xxxxxx University
 
 ## 🎯 Interests
